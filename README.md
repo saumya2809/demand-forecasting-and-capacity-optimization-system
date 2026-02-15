@@ -1,4 +1,4 @@
-# demand-forecasting-and-capacity-optimization-system
+
 # Azure Demand Forecasting & Capacity Optimization System
 
 ## 📌 Milestone 1: Data Collection & Preparation
